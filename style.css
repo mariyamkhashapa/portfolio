@@ -42,15 +42,6 @@
                                                                                                             background-color: lightgrey;
                                                                                                         }
                                                                                                         
-                                                                                                        #per {
-                                                                                                            background-image: url(/images/milky-way-2695569_960_720.jpg);
-                                                                                                            background-attachment: fixed;
-                                                                                                            width: 50%;
-                                                                                                            height: 500px;
-                                                                                                            font-size: 50px;
-                                                                                                            color: white;
-                                                                                                        }
-                                                                                                        
                                                                                                         h5 {
                                                                                                             color: lightskyblue
                                                                                                         }
@@ -61,6 +52,16 @@
                                                                                                         
                                                                                                         #copy {
                                                                                                             font-size: 20px;
+                                                                                                        }
+                                                                                                        
+                                                                                                        #personal {
+                                                                                                            background-image: url(/images/milky-way-2695569_960_720.jpg);
+                                                                                                            background-attachment: fixed;
+                                                                                                            width: 70%;
+                                                                                                            height: 700px;
+                                                                                                            font-size: 50px;
+                                                                                                            color: white;
+                                                                                                            background-size: 100%;
                                                                                                         }
                                                                                                         /* -----------tablet devices----------*/
                                                                                                         
