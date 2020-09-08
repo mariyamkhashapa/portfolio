@@ -1,12 +1,13 @@
 body{
     text-align: center;
 }
-.grid-container{display: grid;
-background-image: url(https://www.designbolts.com/wp-content/uploads/2019/02/High-Qualiy-White-wood-for-mockup-Background-1.jpg);
-background-repeat: none;
-grid-template-columns: 100%;
-grid-column-gap: 20px;
-grid-template-rows:20fr;}
+.grid-container{
+  display: grid;
+  background-image: url(https://www.designbolts.com/wp-content/uploads/2019/02/High-Qualiy-White-wood-for-mockup-Background-1.jpg);
+  background-repeat: none;
+  grid-template-columns: 100%;
+  grid-column-gap: 20px;
+  grid-template-rows:20fr;}
 .grid-container  > .item {padding: 30px;
     background: azure;
     color: black;
@@ -34,11 +35,18 @@ letter-spacing:  5px; ;}
     li {
       text-decoration: none;
         border: purple 5px solid;
-        padding: 5px;
+        
         font-size: 30px;
-        size: 100px;
+       
         margin: 10px;
         background-color: lightgrey;
    display: inline-block;}
-   li a{text-decoration: none;}
+   li a{text-decoration: none;
+size: 100px;
+padding: 15px;
+border: blueviolet;
+}
+   #copy{
+       font-size: 20px; 
+   }
   
