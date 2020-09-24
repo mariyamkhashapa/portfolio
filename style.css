@@ -27,7 +27,9 @@ letter-spacing:  5px; ;}
     font-size: 30px;
     color: white;
     background-image: url(https://wallpaperaccess.com/full/31366.jpg);
-    background-size: contain;}
+    background-size: contain;
+width: 50vw;
+height: 50vh;}
     ul {
         list-style: none;
     }
@@ -50,3 +52,9 @@ border: blueviolet;
        font-size: 20px; 
    }
   
+#proj{
+
+width: 50vw;
+height: 50vh;
+background-image: url(./images/milky-way-2695569_960_720.jpg);
+}
