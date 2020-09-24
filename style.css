@@ -56,5 +56,5 @@ border: blueviolet;
 #proj{
 
 width: fit-content;
-background-image: url(./images/milky-way-2695569_960_720.jpg);
+background-image: url("./images/milky-way-2695569_960_720.jpg");
 }
